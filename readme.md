@@ -8,7 +8,7 @@ Scrips and softwares can be used in the development of cognitive science experim
 
 ### Content
 
-**likert_scale.py** : integrate likert scale with Tkinter, a graphical user interface for Python
+**likert_scale.py** : script for making likert scale with Tkinter, a graphical user interface for Python
 
 
 <!---
