@@ -1,13 +1,17 @@
-# Project Title
+# EATMINT2
 
-One Paragraph of project description goes here
+This repository contains various scripts and software used in the second experiment of the eatmint project : https://www.unige.ch/cisa/eatmint/. 
 
-## Getting Started
+## Purposes
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+Scrips and softwares can be used in the development of cognitive science experiments. 
 
-### Prerequisites
+### Content
 
+likert_scale.py : integrate likert scale with Tkinter, a graphical user interface for Python
+
+
+<!---
 What things you need to install the software and how to install them
 
 ```
@@ -85,3 +89,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 * Hat tip to anyone whose code was used
 * Inspiration
 * etc
+-->
