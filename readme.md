@@ -1,6 +1,6 @@
 # EATMINT2
 
-This repository contains various scripts and softwares used in the concepton of the second experiment of the eatmint project : https://www.unige.ch/cisa/eatmint/. All the content can be freely used.
+This repository contains or will contain various scripts and softwares used in the conception and statistical analysis of the second experiment of the eatmint project : https://www.unige.ch/cisa/eatmint/.
 
 ## Purposes
 
